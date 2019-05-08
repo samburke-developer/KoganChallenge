@@ -1,0 +1,14 @@
+{
+  "name": "koganchallenge",
+  "version": "1.0.0",
+  "description": "A simple node console program that finds the average cubic weight for a product category based on array retrieved from an API",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Burke",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
